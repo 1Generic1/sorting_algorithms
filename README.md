@@ -12,6 +12,7 @@ https://www.geeksforgeeks.org/sorting-algorithms/ <br>
 ## Requirements
 
 General
+
 	Allowed editors: vi, vim, emacs
 	All your files will be compiled on Ubuntu 20.04 LTS using gcc, using the options -Wall -Werror -Wextra -pedantic -std=gnu89
 	All your files should end with a new line
@@ -268,9 +269,9 @@ Write in the file 107-O, the big O notations of the time complexity of the Quick
 
 Write a function that sorts a deck of cards.
 
- Prototype: void sort_deck(deck_node_t **deck);
- You are allowed to use the C standard library function qsort
- Please use the following data structures:
+Prototype: void sort_deck(deck_node_t **deck);
+You are allowed to use the C standard library function qsort
+Please use the following data structures:
 
 	typedef enum kind_e
 	{
@@ -312,6 +313,6 @@ Each node of the doubly linked list contains a card that you cannot modify. You 
 You can assume there is exactly 52 elements in the doubly linked list.
 You are free to use the sorting algorithm of your choice
 The deck must be ordered:
-  From Ace to King
-  From Spades to Diamonds
-  See example below
+  From Ace to King <br>
+  From Spades to Diamonds <br>
+  See example below <br>
