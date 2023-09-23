@@ -308,11 +308,12 @@ Please use the following data structures:
 	    struct deck_node_s *next;
 	} deck_node_t;
 
-You have to push you deck.h header file, containing the previous data structures definition
-Each node of the doubly linked list contains a card that you cannot modify. You have to swap the nodes.
-You can assume there is exactly 52 elements in the doubly linked list.
-You are free to use the sorting algorithm of your choice
-The deck must be ordered:
-  From Ace to King <br>
-  From Spades to Diamonds <br>
-  See example below <br>
+
+	You have to push you deck.h header file, containing the previous data structures definition
+	Each node of the doubly linked list contains a card that you cannot modify. You have to swap the nodes.
+	You can assume there is exactly 52 elements in the doubly linked list.
+	You are free to use the sorting algorithm of your choice
+	The deck must be ordered:
+	  From Ace to King <br>
+	  From Spades to Diamonds <br>
+	  See example below <br>
