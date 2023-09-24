@@ -2,7 +2,8 @@
 #include <stddef.h>
 
 /**
- * bubble_sort - Sorts an array of integers in ascending order using Bubble sort.
+ * bubble_sort - Sorts an array of integers
+ * in ascending order using Bubble sort.
  *
  * @array: The array to be sorted.
  * @size: Number of elements in the array.
